@@ -1,8 +1,8 @@
 body {
-   font-size: 0.8em;
-   color: navy;
+   background-color: blue;
+
 }
-h1 {
-   color: #ffc;
-   background-color: #009;
+#top {
+   background-color: #ccc;
+   padding: 1em
 }
