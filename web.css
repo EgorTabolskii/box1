@@ -5,25 +5,34 @@ body {
 }
 .top {
    background-color: antiquewhite;
+   margin: 1em;
+   padding: 3em
    
 }
 .laba1
 {
    background-color: aqua;
-    font-family: "Verdana"
+   margin: 1em;
+   padding: 3em
 }
 .laba2
 {
    background-color: paleturquoise;
+   margin: 1em;
+   padding: 3em
    
 }
 .laba3
 {
    background-color: lightskyblue;
+   margin: 1em;
+   padding: 3em
    
 }
 .dno
 {
 background-color: firebrick;
+   margin: 1em;
+   padding: 3em
     
 }
