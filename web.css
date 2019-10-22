@@ -1,10 +1,11 @@
 body {
    background-color: lavender;
+   font-family: arial, helvetica, sans-serif;
 
 }
 .top {
    background-color: antiquewhite;
-    font-family: "Verdana"
+   
 }
 .laba1
 {
@@ -14,15 +15,15 @@ body {
 .laba2
 {
    background-color: paleturquoise;
-    font-family: "Verdana"
+   
 }
 .laba3
 {
    background-color: lightskyblue;
-    font-family: "Verdana"
+   
 }
 .dno
 {
 background-color: firebrick;
-    font-family: "Verdana"
+    
 }
