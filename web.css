@@ -4,21 +4,25 @@ body {
 }
 .top {
    background-color: antiquewhite;
-   padding: 1em
+    font-family: "Verdana"
 }
 .laba1
 {
    background-color: aqua;
+    font-family: "Verdana"
 }
 .laba2
 {
-   background-color: cyan;
+   background-color: paleturquoise;
+    font-family: "Verdana"
 }
 .laba3
 {
    background-color: lightskyblue;
+    font-family: "Verdana"
 }
 .dno
 {
 background-color: firebrick;
+    font-family: "Verdana"
 }
