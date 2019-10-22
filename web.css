@@ -1,8 +1,24 @@
 body {
-   background-color: blue;
+   background-color: lavender;
 
 }
-#top {
-   background-color: #ccc;
+.top {
+   background-color: antiquewhite;
    padding: 1em
+}
+.laba1
+{
+   background-color: aqua;
+}
+.laba2
+{
+   background-color: cyan;
+}
+.laba3
+{
+   background-color: lightskyblue;
+}
+.dno
+{
+background-color: firebrick;
 }
