@@ -11,35 +11,36 @@ body {
   color:#0000cc;	
 }
 
-.top {
+.top { 
+    width: 900px;
    background-color: antiquewhite;
    margin: 1em;
    padding: 3em;
    
 }
 .laba1
-{
+{ width: 900px;
    background-color: aqua;
    margin: 1em;
    padding: 3em;
       
 }
 .laba2
-{
+{  width: 900px;
    background-color: paleturquoise;
    margin: 1em;
    padding: 3em;
    
 }
 .laba3
-{
+{  width: 900px;
    background-color: lightskyblue;
    margin: 1em;
    padding: 3em;
    
 }
 .dno
-{
+{ width: 900px;
 background-color: firebrick;
    margin: 1em;
    padding: 3em;
