@@ -26,6 +26,7 @@ body {
    background-color: aqua;
    margin:  auto;
    padding: 3em;
+  position: relative;
       
 }
 .laba2
@@ -33,6 +34,7 @@ body {
    background-color: paleturquoise;
    margin:  auto;
    padding: 3em;
+  position: relative;
    
 }
 .laba3
@@ -40,6 +42,7 @@ body {
    background-color: lightskyblue;
    margin:  auto;
    padding: 3em;
+  position: relative;
    
 }
 .dno
@@ -47,5 +50,6 @@ body {
 background-color: firebrick;
     margin: auto;
    padding: 3em;
+  position: relative;
     
 }
