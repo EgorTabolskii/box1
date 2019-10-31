@@ -1,5 +1,5 @@
 body {
-    margin: auto;
+ 
     
    background-color: lavender;
    font-family: arial, helvetica, sans-serif;
@@ -45,7 +45,7 @@ body {
 .dno
 { width: 900px;
 background-color: firebrick;
-   margin: 1em;
+    margin: auto;
    padding: 3em;
     
 }
